@@ -9,7 +9,7 @@ SELECT empno,ename,sal,hiredate
 FROM EMP
 WHERE job='MANAGER';
 
-
+#in sql there are so many things to do
 CREATE OR REPLACE PROCEDURE sumTwoNum (num1 IN number,num2 IN number) 
 IS
 BEGIN
